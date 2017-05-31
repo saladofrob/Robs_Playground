@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: e0016ea2d001978498fe7961e24d3451
+timeCreated: 1494527051
+licenseType: Free
+SubstanceImporter:
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: Wood_StaggeredFloorPlanks
+    prototypeName: Wood_StaggeredFloorPlanks
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs: []
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs: []
+      floats: []
+      colors: []
+    textureParameters:
+    - name: Wood_StaggeredFloorPlanks_2k_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Wood_StaggeredFloorPlanks_2k_n
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Wood_StaggeredFloorPlanks_2k_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Wood_StaggeredFloorPlanks_2k_ao
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Wood_StaggeredFloorPlanks_2k_h
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 4107854364
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 4107854342
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 4107854362
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 4107854766
+    - shaderProp: _ParallaxMap
+      material: {instanceID: 0}
+      baseUID: 4107854737
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 0
+      loadingBehavior: 1
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
